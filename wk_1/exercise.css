@@ -1,0 +1,63 @@
+.box1{
+    width: 700px;
+    height: 250px;
+    /* border: solid 1px; */
+    float: left
+}
+
+.box2{
+    width: 200px;
+    height: 250px;
+    /* border: solid 1px; */
+    float: left;
+}
+
+.box1_1{
+    width: 680px;
+    height: 70px;
+    margin: 7px;
+    /* border: solid 1px; */
+}
+
+.box1_2{
+    width: 660px;
+    height: 140px;
+    margin: 7px;
+    /* border: solid 1px; */
+    padding: 10px;
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    padding: 15px;
+    float: left
+}
+
+.auri{
+    font-size: 16px;
+    color:#262626;
+}
+
+.hour{
+    font-size: 14px;
+    color:#747474;
+}
+
+.K4{
+    margin: 10px;
+    width: 180px;
+    height: 200px;
+}
+
+h1{
+    font-size: 20px;
+    font-weight : 600;
+}
+
+h2{
+    font-size: 16px;
+    font-weight : 40;
+    color: #747474
+}
